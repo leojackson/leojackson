@@ -1,11 +1,18 @@
-## Hi there 👋
+## Hello! 👋
+
+It's Leo!
+
+- 😄 Pronouns: he/him
+- 💻 I work in IT/devops
+- 👨‍💻 I contribute to IT tools, ⚔️ Foundry VTT systems & modules
+- 🛠️ I mostly work in PowerShell, Bash, Javascript, Typescript, and automation using GitHub actions
 
 <!--
 **leojackson/leojackson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
