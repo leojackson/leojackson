@@ -2,7 +2,6 @@
 
 It's Leo!
 
-- 😄 Pronouns: he/him
 - 💻 I work in IT/devops
 - 👨‍💻 I mostly contribute to IT tools, Foundry VTT systems & modules
 - 🛠️ I work in PowerShell, Bash, Javascript, and Typescript
