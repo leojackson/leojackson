@@ -4,20 +4,12 @@ It's Leo!
 
 - 😄 Pronouns: he/him
 - 💻 I work in IT/devops
-- 👨‍💻 I contribute to IT tools, ⚔️ Foundry VTT systems & modules
-- 🛠️ I mostly work in PowerShell, Bash, Javascript, Typescript, and automation using GitHub actions
-
+- 👨‍💻 I mostly contribute to IT tools, Foundry VTT systems & modules
+- 🛠️ I work in PowerShell, Bash, Javascript, and Typescript
+- ⚙️ I also implement GitHub action automations
 <!--
-**leojackson/leojackson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=leojackson&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&size_weight=0.5&count_weight=0.5)
 -->
